@@ -1,5 +1,7 @@
-function fizzbuzz(a) {
+export function fizzbuzz(a) {
   return a;
 }
 
-export default fizzbuzz;
+export function fizzbuzz2(a) {
+  return 1;
+}
