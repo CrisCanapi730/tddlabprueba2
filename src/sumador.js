@@ -11,3 +11,12 @@ export function fizzbuzz3(a) {
 export function fizzbuzz4(a) {
   return 1;
 }
+export function fizzbuzz2(a) {
+  return a;
+}
+export function fizzbuzz3(a) {
+  return 1;
+}
+export function fizzbuzz4(a) {
+  return 1;
+}
