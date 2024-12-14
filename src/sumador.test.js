@@ -8,7 +8,7 @@ describe("Sumar", () => {
 
 describe("Sumar", () => {
   it("deberia sumar dos numeros", () => {
-    expect(fizzbuzz2(3)).toEqual(1);
+    expect(fizzbuzz2(3)).toEqual(3);
   });
 });
 

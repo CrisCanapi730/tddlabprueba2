@@ -3,7 +3,7 @@ export function fizzbuzz(a) {
 }
 
 export function fizzbuzz2(a) {
-  return 1;
+  return a;
 }
 export function fizzbuzz3(a) {
   return 1;
